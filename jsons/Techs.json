@@ -271,11 +271,11 @@
 		"wonderCost": 999999,
 		"techs": [
 			{
-				"name": "HUAS",
+				"name": "You... shall not... PASS!!",
 				"row": 6,
 				"prerequisites": ["Compass","Education","Banking","Chivalry","Machinery","Physics","Steel"],
-				"uniques": [" Huahua?", "Can be continually researched"],
-				"quote": "Foria?"
+				"uniques": ["And now... humanity shall stop inventing. All the science... to trash! May the world never progress any further! Muahahaha...", "Can be continually researched"],
+				"quote": "NO! This isn't supposed how you play the game! You can't pass on from here, I won't allow you. No"
 			},
 		]
 	},
