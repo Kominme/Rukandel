@@ -24,7 +24,7 @@
 		"innerColor": [0,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Ingenuity",
-		"uniques": ["[2] free [Settler] units appear", "[Great Engineer] is earned [100]% faster", "[Sword] units gain the [Unweavering] promotion", "[+25]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>", "[+15]% Production when constructing [Sword] units [in this city]"]
+		"uniques": ["[2] free [Settler] units appear", "[Great Engineer] is earned [100]% faster", "[Sword] units gain the [Unweavering] promotion", "[+25]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>", "[+100]% Production when constructing [Sword] units [in this city]"]
 		"New [Military] units start with [15] Experience [in this city]",
 		"cities": ["Rukandels","Stormguard","Lordearon","Valoran","Nexus","Valentia","Onar","Proudmore","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
