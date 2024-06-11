@@ -1,0 +1,34 @@
+[
+{
+		//nations
+		"name": "Rukandel",
+		"leaderName": "Leon Rukandel",
+		"adjective": ["The Rukandels"],
+		"startBias": ["Avoid [Desert]"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "The Great Rukandels already have reached the top there is no reason that we can't do it again, we Rukandels shall rise again and conquer this new land, with our swords, we  protect shall our pride, kill our enemies til they become our family and give honour to the Rukandels. ",
+		"startIntroPart2": "Great Nebuchadnezzar, Babylon's glory still lives through you and your people. Will you create a spark to enlighten the world again? Will your new empire shine through the ages of history?",
+
+		"declaringWar": "Our swords will reach the heavens and descend upon your lands to bring destruction.",
+		"attacked": "Goodluck Protecting your little city.",
+		"defeated": "The Rukandel shall be remembered as the greatest sword that striked into this world.",
+		"introduction": " Bow down to the Rukandels. ",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "Tell us what you want or we shall burn your cities to the ground",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Ingenuity",
+		"uniques": ["[2] free [Settler] units appear", "[Great Engineer] is earned [100]% faster", "[Sword] units gain the [Unrelenting] promotion"],
+		"cities": ["Rukandels","Stormguard","Lordearon","Valoran","Nexus","Valentia","Onar","Proudmore","Shushan","Eshnunna",
+			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
+			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
+			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	}
+]
