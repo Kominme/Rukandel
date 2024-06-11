@@ -12,7 +12,7 @@
 		"obsoleteTech": "Gunpowder",
 		"upgradesTo": "Musketman",
 		"uniques" : ["[+30]% Strength <vs [Sword] units>", "[+60]% Strength <vs [Ranged] units>", "[+60]% Strength <vs [Seige] units>"],
-                "promotions": ["Shock I", Drill I],
+                "promotions": ["Shock I", "Drill I"],
                 "attackSound": "metalhit"
 	}
 ]
