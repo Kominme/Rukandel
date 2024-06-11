@@ -1,0 +1,18 @@
+[
+{
+		"name": "Black Swordsman",
+		"uniqueTo": "Rukandel",
+		"replaces": "Longswordsman",
+		"unitType": "Sword",
+		"movement": 4,
+		"strength": 21,
+		"cost": 120,
+                "requiredResource": "Iron",
+                "requiredTech": "Steel",
+		"obsoleteTech": "Gunpowder",
+		"upgradesTo": "Musketman",
+		"uniques" : ["[+30]% Strength <vs [Sword] units>"],
+                "promotions": ["Shock I"],
+                "attackSound": "metalhit"
+	}
+]
