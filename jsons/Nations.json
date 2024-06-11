@@ -24,11 +24,11 @@
 		"innerColor": [0,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Ingenuity",
-		"uniques": ["[2] free [Settler] units appear", "[Great Engineer] is earned [100]% faster", "[Sword] units gain the [Unrelenting] promotion"],
+		"uniques": ["[2] free [Settler] units appear", "[Great Engineer] is earned [100]% faster", "[Sword] units gain the [Unweavering] promotion", "[+25]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>"],
 		"cities": ["Rukandels","Stormguard","Lordearon","Valoran","Nexus","Valentia","Onar","Proudmore","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
 			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
-        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+        "spyNames": ["Rim", "Jlord", "Leon rok", "Cromwell", "Red", "Noir", "Rogue", "Ihso", "Balor", "Proudmore"]
 	}
 ]
