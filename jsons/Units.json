@@ -1,6 +1,6 @@
 [
 {
-		"name": "Black Swordsman",
+		"name": "Rukandel Swordsman",
 		"uniqueTo": "Rukandel",
 		"replaces": "Longswordsman",
 		"unitType": "Sword",
@@ -13,6 +13,22 @@
 		"upgradesTo": "Musketman",
 		"uniques" : ["[+30]% Strength <vs [Sword] units>", "[+60]% Strength <vs [Ranged] units>", "[+60]% Strength <vs [Seige] units>"],
                 "promotions": ["Shock I", "Drill I", "Medic II", "Medic", "Amphibious"],
+                "attackSound": "metalhit"
+	},
+{
+		"name": "Cadet",
+		"uniqueTo": "Rukandel",
+		"replaces": "Swordsman",
+		"unitType": "Sword",
+		"movement": 3,
+		"strength": 14,
+		"cost": 70,
+                "requiredResource": "Iron",
+                "requiredTech": "Iron Working",
+		"obsoleteTech": "Gunpowder",
+		"upgradesTo": "Musketman",
+		"uniques" : ["[+15]% Strength <vs [Sword] units>", "[+30]% Strength <vs [Ranged] units>", "[+30]% Strength <vs [Seige] units>"],
+                "promotions": ["Shock I", "Drill I"],
                 "attackSound": "metalhit"
 	}
 ]
